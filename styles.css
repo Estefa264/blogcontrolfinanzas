@@ -1,0 +1,67 @@
+/* Estilos básicos */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E8D6F0; /* Fondo lila claro */
+    color: #4A4A4A; /* Texto gris oscuro */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #F7D0DC; /* Rosa pastel */
+    color: #4A4A4A;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    color: #F7A7C4; /* Rosa fuerte */
+    font-size: 1.8em;
+}
+
+h3 {
+    color: #F7A7C4; /* Rosa fuerte */
+    font-size: 1.5em;
+}
+
+article {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+section {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #F7D0DC; /* Rosa pastel */
+    color: #4A4A4A;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.6;
+}
